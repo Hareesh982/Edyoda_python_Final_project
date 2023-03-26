@@ -1,0 +1,32 @@
+{
+    "0": {
+        "user_name": "rajesh",
+        "user_number": "9449792435",
+        "user_email": "rajesh@gmail.com",
+        "user_address": "Bangalore",
+        "user_password": "1234"
+    },
+    "1": {
+        "user_name": "hareesh",
+        "user_number": "9448669271",
+        "user_email": "hareeshdudduppudi@gmail.com",
+        "user_address": "bangalore",
+        "user_password": "hareesh1234",
+        "order_0": [
+            "Tandoori chicken (4 pieces) [INR 240]",
+            "Vegan Burger (1 piece) [INR 320]",
+            "Truffle Cake (500gm) [INR 900]"
+        ],
+        "order_1": [
+            "Vegan Burger (1 piece) [INR 320]",
+            "Truffle Cake (500gm) [INR 900]"
+        ]
+    },
+    "2": {
+        "user_name": "asha",
+        "user_number": "9900196400",
+        "user_email": "asha@gmail.com",
+        "user_address": "bangalore",
+        "user_password": "asha1234"
+    }
+}

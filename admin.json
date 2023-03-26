@@ -1,0 +1,37 @@
+{
+    "admin_name": "Paradise Restaurent",
+    "admin_email": "paradise@gmail.com",
+    "admin_password": "Paradise1234",
+    "2749": {
+        "food_id": "2749",
+        "food_name": "Tandoori chicken",
+        "food_quantity": "4 pieces",
+        "food_price": "INR 240",
+        "food_discount": "10%",
+        "food_stock": "10"
+    },
+    "4809": {
+        "food_id": "4809",
+        "food_name": "Vegan Burger",
+        "food_quantity": "1 piece",
+        "food_price": "INR 320",
+        "food_discount": "5%",
+        "food_stock": "20"
+    },
+    "2112": {
+        "food_id": "2112",
+        "food_name": "Truffle Cake",
+        "food_quantity": "500gm",
+        "food_price": "INR 900",
+        "food_discount": "10%",
+        "food_stock": "10"
+    },
+    "5343": {
+        "food_id": "5343",
+        "food_name": "Egg Biryani",
+        "food_quantity": "500 gm",
+        "food_price": "200",
+        "food_discount": "10%",
+        "food_stock": "10"
+    }
+}
